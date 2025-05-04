@@ -1,5 +1,6 @@
 fastapi
-uvicorn
+mangum
 pandas
 numpy
 scikit-learn
+scipy
